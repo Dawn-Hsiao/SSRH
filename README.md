@@ -4,7 +4,7 @@
 
 ### General framework
 
-![image-20231009133628218]([https://github.com/Dawn-Hsiao/SSRH/edit/main/README.assets/image-20231009133628218.png](https://github.com/Dawn-Hsiao/SSRH/blob/main/README.assets/image-20231009133628218.png))
+![image-20231009133628218](https://github.com/Dawn-Hsiao/SSRH/blob/main/README.assets/image-20231009133628218.png)
 
 ### Moiré simulation framework
 
